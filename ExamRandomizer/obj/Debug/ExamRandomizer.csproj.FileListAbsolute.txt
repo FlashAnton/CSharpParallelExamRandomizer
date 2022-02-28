@@ -1,0 +1,9 @@
+c:\Users\flash\source\repos\ExamRandomizer\ExamRandomizer\bin\Debug\ExamRandomizer.exe.config
+c:\Users\flash\source\repos\ExamRandomizer\ExamRandomizer\bin\Debug\ExamRandomizer.exe
+c:\Users\flash\source\repos\ExamRandomizer\ExamRandomizer\bin\Debug\ExamRandomizer.pdb
+c:\Users\flash\source\repos\ExamRandomizer\ExamRandomizer\obj\Debug\ExamRandomizer.csprojAssemblyReference.cache
+c:\Users\flash\source\repos\ExamRandomizer\ExamRandomizer\obj\Debug\ExamRandomizer.Properties.Resources.resources
+c:\Users\flash\source\repos\ExamRandomizer\ExamRandomizer\obj\Debug\ExamRandomizer.csproj.GenerateResource.cache
+c:\Users\flash\source\repos\ExamRandomizer\ExamRandomizer\obj\Debug\ExamRandomizer.exe
+c:\Users\flash\source\repos\ExamRandomizer\ExamRandomizer\obj\Debug\ExamRandomizer.pdb
+C:\Users\flash\source\repos\ExamRandomizer\ExamRandomizer\obj\Debug\ExamRandomizer.frmMain.resources
